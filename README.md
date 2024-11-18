@@ -1,5 +1,5 @@
 # CISSP-Bootcamp
-## 20204
+## 2024
 * Do not think the exam is completely new - it is not.
 * There has only been a 5% change
 * ISC2 only added new questions to the new parts of the exam, 95% is the same
