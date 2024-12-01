@@ -8,5 +8,6 @@
 * Zipped files may have password: that password is given out in live class.
 # CISSP-Exam Cram
 ## 2025
-* Sign up for Dean's weekly 30 minute Exam Q&A
+* Sign up for the readiness quiz https://forms.gle/XaJ3HF9XtsyhDky17
+* Sign up for Dean's weekly 30 minute Exam Q&A https://forms.gle/EY1rUCVF5mTgqSc69
 * Make a copy of this sheet https://docs.google.com/spreadsheets/d/1s4AiwT5mUAav2qK8-cEoeCOnnO5yhVKk2J7UOxkF18I/
