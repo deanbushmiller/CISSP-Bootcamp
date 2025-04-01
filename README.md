@@ -6,8 +6,6 @@
 * There has only been a 5% change
 * ISC2 only added new questions to the new parts of the exam, 95% is the same
 * What is that 5%? See the changes doc and come to class.
-# CISSP-Exam Cram
-## 2025
-* This signup is only active when there is a scheduled event
-* Sign up for the readiness quiz https://forms.gle/XaJ3HF9XtsyhDky17
 * Make a copy of this sheet https://docs.google.com/spreadsheets/d/1s4AiwT5mUAav2qK8-cEoeCOnnO5yhVKk2J7UOxkF18I/
+## Resources
+* come to class for new version.
