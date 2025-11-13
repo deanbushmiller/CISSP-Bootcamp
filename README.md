@@ -10,11 +10,11 @@
 * What is that 5%? See the changes doc and come to class.
 * Make a copy of this sheet https://docs.google.com/spreadsheets/d/1s4AiwT5mUAav2qK8-cEoeCOnnO5yhVKk2J7UOxkF18I/
 ## Resources
-* come to class for new version.
-Do you want to attend a full class on CISSP? 
-We are doing beta testing on our new platform - Sign up to be a part.
-We will meet to prepare every Friday until the start of class in February.
-Apply here: https://expandingsecurity.com/buy/the-200-sign-up/
+* After you get your CISSP do you want to make content better or
+* Do you want to attend a full class on CISSP? 
+* We are doing beta testing on our new platform - Sign up to be a part.
+* We will meet to prepare every Friday until the start of class in February.
+* Apply here: https://expandingsecurity.com/buy/the-200-sign-up/
 
 * Glossary:
 
