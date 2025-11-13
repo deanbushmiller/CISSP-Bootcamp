@@ -16,23 +16,30 @@ We are doing beta testing on our new platform - Sign up to be a part.
 We will meet to prepare every Friday until the start of class in February.
 Apply here: https://expandingsecurity.com/buy/the-200-sign-up/
 
-Glossary:
+* Glossary:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/CISSP-whole-Glossary2024.pdf
 
-Readings:
+* Readings:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/99CISSP-reading-links2025.html
 
-Worksheets:
+* Worksheets:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/0CISSP-Activities20241223.pdf
-Googlesheet:
+* Googlesheet:
+
 https://docs.google.com/spreadsheets/d/1s4AiwT5mUAav2qK8-cEoeCOnnO5yhVKk2J7UOxkF18I/
-Excel version:
+* Excel version:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/CISSP-Activities.xlsx
 
-Main Mindmap:
+* Main Mindmap:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/00CISSP-2Day_Bootcamp_DeanBushmiller2025-01-20-Stu-version.html
 
-Content Mindmaps:
+* Content Mindmaps:
+
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/2CISSP1.4K0721-RiskMAN-DeanBushmiller.html
 
 https://20250120-cissp-orm.s3.us-east-2.amazonaws.com/3CISSP1.3K0835-RiskASE-DeanBushmiller.html
